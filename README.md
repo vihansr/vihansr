@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![y](https://giphy.com/gifs/request-berserk-black-swordsman-pNx09ajeVCJ3O)
+
 <!--
 **vihansr/vihansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
