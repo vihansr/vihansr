@@ -1,4 +1,6 @@
-<img src="[images/my-app-demo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm83bTNwNXJ6NWVma2dxdXd6bXlsYzl5ZmdlZTAzNTdyajlueWw5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif)" width="400" alt="App Demo Animation">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm83bTNwNXJ6NWVma2dxdXd6bXlsYzl5ZmdlZTAzNTdyajlueWw5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNx09ajeVCJ3O/giphy.gif" alt="Coding GIF" width="700">
+</p>
 
 
 <!--
